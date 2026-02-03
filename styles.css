@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 90vw;
+  min-height: calc(100vh - 100px);
+  font-family: arial;
+  text-align: center;
+  background-color: rgb(187, 240, 222);
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+
+hr {
+  width: 60%;
+}
+
+section {
+  width: 100%;
+}
